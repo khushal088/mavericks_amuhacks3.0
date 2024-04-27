@@ -1,5 +1,10 @@
 ## **Hackathon: AMU Hacks 3.0**
 ### **Team Name: mavericks_amuhacks3.0**
+**Team Members:**\
+`Tabish Ali Ansari`\
+`Khushal Sharma`\
+`Parth Yangandul`\
+`Deepak Shinde`
 ***
 ### `Project Title:` AI based Chatbots for Customer Service
 ### `Problem Statement:` 
@@ -11,8 +16,8 @@ Our solution integrates cutting-edge Natural Language Processing (NLP) algorithm
 ### `Uniqueness and Distinctuality: `
 Our solution stands out from competitors through its robust blend of advanced AI technologies and seamless integration capabilities. While some competitors may offer basic chatbot functionalities, our product distinguishes itself with its DL-based NLP algorithms, which enable superior understanding and response generation. Furthermore, our solution's ability to seamlessly integrate with existing CRM systems sets it apart, providing businesses with a comprehensive view of customer interactions and enabling proactive support strategies. Additionally, ongoing refinement through continuous learning ensures our solution remains at the forefront of innovation, offering unmatched performance and customer satisfaction.
 ***
-### Team Members:
-`Tabish Ali Ansari`\
-`Khushal Sharma`\
-`Parth Yangandul`\
-`Deepak Shinde`
+### Contact the team:
+[Tabish Ali Ansari](mailto:tabish.ansari004@yahoo.com?subject=[GitHub]%20Source%20Han%20Sans)\
+[Khushal Sharma](mailto:khushal77777777@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)\
+[Parth Yangandul](mailto:parthyangandul@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)\
+[Deepak Shinde](mailto:tabish.ansari004@yahoo.com?subject=[GitHub]%20Source%20Han%20Sans)\
