@@ -21,24 +21,21 @@ class ChatbotApp:
     def send_message(self):
         user_input_text = self.user_input.get()
         self.chat_history.insert(tk.END, "User: " + user_input_text + "\n")
-        # Call your chatbot logic here and get the response
         response = self.generate_response(user_input_text)
         self.chat_history.insert(tk.END, "Chatbot: " + response + "\n")
         self.user_input.delete(0, tk.END)
 
     def generate_response(self, user_input):
-        # Define a dictionary of predefined responses for different queries
         responses = {
             "hello": "Hello! How can I assist you?",
             "how are you": "I'm doing well, thank you for asking.",
             "bye": "Goodbye! Have a great day!",
-            # Add more responses for different queries
         }
-        # Check if the user input matches any predefined queries
+        
         for query, response in responses.items():
             if query in user_input.lower():
                 return response
-        # If no predefined response matches, return a generic response
+                
         return "I'm sorry, I didn't understand that. Can you please rephrase?"
 
 def main():
