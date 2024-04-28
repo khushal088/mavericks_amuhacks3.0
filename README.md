@@ -1,6 +1,6 @@
 ## **Hackathon: AMU Hacks 3.0**
 ### **Team Name: mavericks_amuhacks3.0**
-**Team Members:**\
+**Team Members:**
 #### `Tabish Ali Ansari`
 > Artificial Intelligence and Data Science protege\
 > AI/ML developer
