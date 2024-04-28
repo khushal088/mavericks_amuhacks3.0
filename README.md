@@ -20,4 +20,4 @@ Our solution stands out from competitors through its robust blend of advanced AI
 [Tabish Ali Ansari](mailto:tabish.ansari004@yahoo.com?subject=[GitHub]%20Source%20Han%20Sans)\
 [Khushal Sharma](mailto:khushal77777777@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)\
 [Parth Yangandul](mailto:parthyangandul@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)\
-[Deepak Shinde](mailto:tabish.ansari004@yahoo.com?subject=[GitHub]%20Source%20Han%20Sans)
+[Deepak Shinde](mailto:deep1904s@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
