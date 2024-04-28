@@ -1,10 +1,18 @@
 ## **Hackathon: AMU Hacks 3.0**
 ### **Team Name: mavericks_amuhacks3.0**
 **Team Members:**\
-`Tabish Ali Ansari`\
-`Khushal Sharma`\
-`Parth Yangandul`\
-`Deepak Shinde`
+#### `Tabish Ali Ansari`
+> Artificial Intelligence and Data Science protege\
+> AI/ML developer
+
+#### `Khushal Sharma`
+> Team Lead
+
+#### `Parth Yangandul`
+> Team Member
+
+#### `Deepak Shinde`
+>Team Member
 ***
 ### `Project Title:` AI based Chatbots for Customer Service
 ### `Problem Statement:` 
